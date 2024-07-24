@@ -1,6 +1,6 @@
 # Link_Prediction_Hetero_CollecTRI_protein_sequence:
 
-This script presents a comprehensive approach to link prediction in heterogeneous graphs using Graph Neural Networks (GNNs), specifically applied to biological data from CollecTRI. Here's a summary of the key scientific aspects:
+This script presents a comprehensive approach to link prediction in heterogeneous graphs using Graph Neural Networks (GNNs), specifically applied to biological data from CollecTRI. 
 
 ## Data Integration and Preprocessing: 
 Utilizes CollecTRI, a database of gene regulatory interactions
