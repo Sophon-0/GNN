@@ -8,9 +8,6 @@ Utilizes CollecTRI, a database of gene regulatory interactions
 ## Graph Construction: 
 Builds a heterogeneous graph structure using PyTorch Geometric's HeteroData object
 
-## Machine Learning Methodology: 
-Implements a link prediction task, a fundamental problem in network analysis
-
 ## Transform and Split Data:
 Split the edge data into training (80%), validation (10%), and testing (10%) edges using `RandomLinkSplit`.
 Ensure negative samples (edges) are generated and added for evaluation.
